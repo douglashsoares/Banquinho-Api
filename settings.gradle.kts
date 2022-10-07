@@ -1,0 +1,1 @@
+rootProject.name = "salguod.com.br.banquinho-api"
